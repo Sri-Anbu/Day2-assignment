@@ -34,10 +34,11 @@ namespace PrimeNumbers.App
                 if (flag == 1)
                     Console.WriteLine(i);
             }
+            Console.WriteLine("Changed by Susmi");
         }
         static void Main(string[] args)
         {
-            PrimeNumber(10, 20);
+            PrimeNumber(11, 20);
         }
     }
 }
