@@ -1,0 +1,7 @@
+E:\spl assignmet\Day2\Solution.App\PrimeNumbers.App\bin\Debug\PrimeNumbers.App.exe.config
+E:\spl assignmet\Day2\Solution.App\PrimeNumbers.App\bin\Debug\PrimeNumbers.App.exe
+E:\spl assignmet\Day2\Solution.App\PrimeNumbers.App\bin\Debug\PrimeNumbers.App.pdb
+E:\spl assignmet\Day2\Solution.App\PrimeNumbers.App\obj\Debug\PrimeNumbers.App.csprojAssemblyReference.cache
+E:\spl assignmet\Day2\Solution.App\PrimeNumbers.App\obj\Debug\PrimeNumbers.App.csproj.CoreCompileInputs.cache
+E:\spl assignmet\Day2\Solution.App\PrimeNumbers.App\obj\Debug\PrimeNumbers.App.exe
+E:\spl assignmet\Day2\Solution.App\PrimeNumbers.App\obj\Debug\PrimeNumbers.App.pdb
