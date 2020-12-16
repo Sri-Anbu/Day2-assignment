@@ -1,2 +1,5 @@
 Sample input=(1,10)
 Output=(2,3,5,7)
+
+Sample=(10,20)
+Output=(11,13,17,19)
